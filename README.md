@@ -1,8 +1,13 @@
 # iot-c-2025
-iot °³¹ßÀÚ ±âÃÊ C¾ð¾î ¸®Æ÷ÁöÅä¸®
+iot ê°œë°œìž ê¸°ì´ˆ Cì–¸ì–´ ë¦¬í¬ì§€í† ë¦¬
 
-## 1ÀÏÂ÷
-- C¾ð¾î ±âÃÊ
-	- Ãâ·Â¹® (printf)
-	- º¯¼ö (value)
+## 1ì¼ì°¨
+- Cì–¸ì–´ ê¸°ì´ˆ
+	- ì¶œë ¥ë¬¸ (printf)
+	- ë³€ìˆ˜ (value)
 	- scanf
+
+ ## 2ì¼ì°¨
+ - Cì–¸ì–´ ê¸°ì´ˆ
+ 	- scanf ë³µìŠµ
+    	- ì—°ì‚°ìž(operator)  
